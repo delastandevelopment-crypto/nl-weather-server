@@ -1,0 +1,13 @@
+{
+  "name": "nl-weather-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NL Fishing weather proxy for Environment and Climate Change Canada data",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
